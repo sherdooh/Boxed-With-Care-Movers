@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boxed With Care Movers Website
 
 ## Overview
@@ -185,3 +186,7 @@ Content is driven by `server/data/content.json` and `src/lib/siteContent.ts` def
 ---
 
 For questions about deployment or customization, open an issue or ask for a walkthrough of the code. 
+=======
+# Boxed-With-Care-Movers
+Boxed With Care Movers Website
+>>>>>>> bebafe3841706881a34f81d47422d9580fdfbef4
