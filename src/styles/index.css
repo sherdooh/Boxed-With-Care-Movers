@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .blog-scroll-container {
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .blog-scroll-container::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .blog-scroll-container::-webkit-scrollbar-track {
+    background: rgba(229, 231, 235, 0.9);
+    border-radius: 9999px;
+  }
+
+  .blog-scroll-container::-webkit-scrollbar-thumb {
+    background: #f59e0b;
+    border-radius: 9999px;
+  }
+
+  .blog-scroll-container::-webkit-scrollbar-thumb:hover {
+    background: #d97706;
+  }
+}
