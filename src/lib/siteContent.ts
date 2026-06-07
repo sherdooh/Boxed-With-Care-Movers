@@ -60,8 +60,8 @@ export const defaultSiteContent: SiteContent = {
   whyUsImage:
     'https://images.pexels.com/photos/4246121/pexels-photo-4246121.jpeg?auto=compress&cs=tinysrgb&w=800',
   phone: '+254 748 851 679',
-  email: 'Info@boxedwithcaremovers.co.ke',
-  website: 'boxedwithcaremovers.co.ke',
+  email: 'info@boxedwithcare.co.ke',
+  website: 'http://boxedwithcare.co.ke/',
   footerText:
     'Trusted moving and packing specialists. We handle your belongings with the care they deserve — every box, every step of the way.',
   serviceImages: [
