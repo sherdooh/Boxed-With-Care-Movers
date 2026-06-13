@@ -1,0 +1,38 @@
+[
+  {
+    "id": "BWC-20260613-950583",
+    "date": "6/13/2026, 10:29:10 PM",
+    "name": "Kiplangat Shadrack Shadrack",
+    "email": "sherkiplah@gmail.com",
+    "phone": "+254700581448",
+    "from_location": "kisumu",
+    "to_location": "busia",
+    "current_floor": "10+ floors",
+    "destination_floor": "8th floor",
+    "current_size": "Townhouse",
+    "destination_size": "5 bedroom",
+    "move_date": "2026-07-03",
+    "move_type": "Packing Only",
+    "message": "",
+    "quoteNumber": "BWC-20260613-950583",
+    "createdAt": "2026-06-13T19:29:10.638Z"
+  },
+  {
+    "id": "BWC-20260613-795489",
+    "date": "6/13/2026, 10:26:35 PM",
+    "name": "Kiplangat Shadrack Shadrack",
+    "email": "sherkiplah@gmail.com",
+    "phone": "+254700581448",
+    "from_location": "lld",
+    "to_location": "lld",
+    "current_floor": "3rd floor",
+    "destination_floor": "6th floor",
+    "current_size": "Villa",
+    "destination_size": "6+ bedroom",
+    "move_date": "2026-06-17",
+    "move_type": "Office/Commercial",
+    "message": "",
+    "quoteNumber": "BWC-20260613-795489",
+    "createdAt": "2026-06-13T19:26:35.867Z"
+  }
+]
